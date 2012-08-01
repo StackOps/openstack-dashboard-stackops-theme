@@ -1,3 +1,3 @@
-debian/theme/style.css /usr/share/openstack-dashboard/openstack_dashboard/static/dashboard/css
+debian/theme/stackops.css /usr/share/openstack-dashboard/openstack_dashboard/static/dashboard/css
 debian/theme/favicon-stackops.ico /usr/share/openstack-dashboard/openstack_dashboard/static/dashboard/img
 debian/theme/stackops.png /usr/share/openstack-dashboard/openstack_dashboard/static/dashboard/img
