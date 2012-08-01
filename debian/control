@@ -2,7 +2,7 @@ Source: openstack-dashboard-stackops-theme
 Section: net
 Priority: extra
 Maintainer: Ghe Rivero <ghe.rivero@stackops.com>
-Build-Depends: debhelper (>= 8.0.0)
+Build-Depends: debhelper (>= 7.0.0)
 Standards-Version: 3.9.3
 
 Package: openstack-dashboard-stackops-theme
