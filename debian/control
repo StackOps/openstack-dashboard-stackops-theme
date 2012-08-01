@@ -1,0 +1,15 @@
+Source: openstack-dashboard-stackops-theme
+Section: net
+Priority: extra
+Maintainer: Ghe Rivero <ghe.rivero@stackops.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: openstack-dashboard-stackops-theme
+Architecture: all
+Depends: ${misc:Depends},
+ ${python:Depends},
+ openstack-dashboard
+Description: Stackops theme for the Openstack dashboard
+ A custom Stackops theme for Horizon.  This package is optional and overrides the
+ default theme and branding.

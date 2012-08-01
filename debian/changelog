@@ -1,0 +1,5 @@
+openstack-dashboard-stackops-theme (0.1-1) precise; urgency=low
+
+  * Initial release.
+
+ -- Ghe Rivero <ghe.rivero@stackops.com>  Mon, 30 Jul 2012 15:52:01 +0200
